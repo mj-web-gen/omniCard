@@ -7,6 +7,7 @@ export default function Home() {
       </div>
       <div className="z-10 w-full max-w-5xl flex items-center justify-center font-mono text-3xl">
         <h1>Willkommen bei omniCard!</h1>
+        <h5>Die Seite wird aktuell umgebaut. Bitte versuchen Sie es später erneut.</h5>
       </div>
     </main>
   );
